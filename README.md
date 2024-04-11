@@ -1,2 +1,1 @@
-# RepositorioHenry
-Este repositorio es para cumplir con el Homework del modulo 2 
+Este proyecto es para cumplir con mi Homework del modulo 2
